@@ -10,6 +10,8 @@
 - 💬 Ask me about **React/Next.js, AWS, Java, SQL**
 
 - 📫 How to reach me **yashpatel.dev.ca@outlook.com**
+  
+- 👨‍💻 Take a look at here:  [yashpatel.dev](https://yashpatel.dev/)
 
 - ⚡ Fun fact **I can optimize database queries faster than I can decide what to have for lunch!**
 
