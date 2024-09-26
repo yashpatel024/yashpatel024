@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Match My Roomie](https://matchmyroomie.com/)
 
-- 🌱 I’m currently learning **Advanced React.js, Kubernetes, Microservices**
+- 🌱 I’m currently learning **Microservices, OAuth 2.0, Docker, Kubernetes**
 
 - 💬 Ask me about **React/Next.js, AWS, Java, SQL**
 
